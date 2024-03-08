@@ -1,6 +1,6 @@
 import json, os, csv
 
-search_results_folder = "1_Python/3. SE Websites/search_results"
+search_results_folder = "1_Python/3.SE Websites/search_results"
 
 
 def merge(file, domain_dict_list):
@@ -21,7 +21,7 @@ def merge(file, domain_dict_list):
                         if [dict["search-engine"], dict["key_word"]] not in do['source']:
                             do['source'].append([dict["search-engine"], dict["key_word"]])
 
-    output = "1_Python/3. SE Websites/se_raw_list.json"
+    output = "1_Python/3.SE Websites/se_raw_list.json"
     out_file = output
 
     with open(output, 'w+') as output:
