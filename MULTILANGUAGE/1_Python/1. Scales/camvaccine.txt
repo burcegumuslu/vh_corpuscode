@@ -1,0 +1,221 @@
+R-ICAM-Q - Bryden & Browne (2016)
+
+
+Providers
+Homeopath
+Herbalist
+Spiritual healer
+Naturopath
+Body manipulation therapies (e.g. Bowen/Reiki) 
+Therapeutic massage
+[add local variants]
+
+
+Products
+Herbs/herbal medicine
+Vitamins/minerals
+Homeopathic remedies
+Non-fluoridated or non-chlorinated water for health purposes
+[add local variants]
+
+
+Self-help practices
+Meditation
+Yoga or Tai Chi
+Detoxification or cleansing diet 
+Relaxation techniques or visualization 
+Aromatherapy
+Any form of traditional or spiritual healing ceremony
+
+
+[Bach flower remedies, Orthomolecular medicine, Ayurveda, Cannabis oils/CBT',  'Acupuncture/pressure, Crystal healing, Traditional Chinese Medicine, Biofeedback, Osteopathy, Curanderismo, Shiatsu, Megadose vitamins, Distance healing, Anthroposophic medicine, Colloidal silver, Cupping, Reflexology, Dry needling, Ear candling, Hypnotherapy, Mind-body interventions, Oil pulling, Ozone therapy',  'Bowen therapy, Craniosacral therapy]
+
+ Treatments should have no negative side effects
+2. It is important to me that treatments are non-toxic
+3. Treatments should only use natural ingredients
+4. It is important for treatments to boost my immune system
+5. Treatments should enable my body to heal itself
+6. Treatments should increase my natural ability to stay healthy
+
+
+7. Treatment providers should treat patients as equal partners
+8. Patients should take an active role in their treatment
+9. Treatment providers should make all decisions about treatment (r)
+10. Treatment providers should help patients make their own decisions about treatment 
+11. Treatment providers should control what is talked about during consultations (r)
+
+
+12. Health is about harmonizing your body, mind and spirit
+13. Imbalances in a person’s life are a major cause of illness
+14. Treatments should concentrate only on symptoms rather than the whole persona (r) 
+15. Treatments should focus on people’s overall well-being
+16. I think my body has a natural ability to heal itself
+17. There is no need for treatments to be concerned with natural healing powers (r) 
+18. I prefer natural remedies to medicine
+19. Treatments should make use of modern scientific technology (r)
+20. Health is about more than just keeping your body fit
+
+Complementary medicine can be dangerous in that it may prevent people getting proper treatment.
+Complementary medicine builds up the body’s own defences, so leading to a permanent cure. (R)
+Homoeopathy has been shown again and again to be ineffective as a cure for anything.
+Complementary medicine has often saved the lives of patients who were already given up by conventional doctors. (R)
+Complementary medicine is superior to conventional medicine in treating chronic ailments such as allergies, headaches, and back pains. (R)
+
+CAM health belief questionnaire - Lie & Boker (2004)
+
+1. The physical and mental health are maintained by an underlying energy or vital force.
+2. Health and disease are a reflection of balance between positive life-enhancing forces and negative destructive forces.
+3. The body is essentially self-healing and the task of a health care provider is to assist in the healing process.
+4. A patient's symptoms should be regarded as a manifestation of a general imbalance or dysfunction affecting the whole body.
+5. A patient's expectations, health beliefs and values should be integrated into the patient care process. 
+6. Complementary therapies are a threat to public health.[r]
+7. Treatments not tested in a scientifically recognized manner should be discouraged.[r]
+8. Effects of complementary therapies are usually the result of a placebo effect.[r]
+9. Complementary therapies include ideas and methods from which conventional medicine could benefit.
+10. Most complementary therapies stimulate the body's natural therapeutic powers.
+
+Holistic complementary and alternative medicine questionnaire - Hyland et al. (2003)
+
+1. Positive thinking can help you fight off a minor illness
+2. Complementary medicine should be subject to more scientific testing before it can be accepted by conventional doctors
+3. When people are stressed it is important that they are careful about other aspects of their lifestyle as their body already has enough to cope with
+4. Complementary medicine can be dangerous in that it may prevent people getting proper treatment
+5. The symptoms of an illness can be made worse by depression
+6. Complementary medicine should only be used as a last resort when conventional medicine has nothing to offer
+7.  If a person experiences a series of stressful life events they are more likely to become ill
+8.  It is worthwhile trying complementary medicine before going to the doctor
+10. Complementary medicine should only be used in minor ailments and not in the treatment of more
+serious illness
+11. It is important to find a balance between work and relaxation in order to stay healthy
+12. Complementary medicine builds up the body’s own defences, so leading to a permanent cure
+
+
+
+Vaccine attitudes/behaviors
+
+Vaccine behaviors - custom question
+We would like to know whether you have had certain vaccines. As this is personal information, of course you can choose not to tell us.
+
+
+Have you had a [COVID-19/flu/hepatitis-B] vaccine?
+Response options: 
+Yes, without hesitance
+Yes, but I was initially hesitant
+No, but my hesitance could be overcome in the future
+No, and I refuse
+I cannot take this vaccine (but would if I could)
+Prefer not to answer
+
+
+Has your child had a MMR vaccine?
+Response options: 
+Yes, without hesitance
+Yes, but I was initially hesitant
+No, but my hesitance could be overcome in the future
+No, and I refuse
+My child cannot take this vaccine (but would if he/she could)
+Prefer not to answer
+
+5C vaccine attitudes - Betsch et al. (2018)
+
+
+To what extent do the following statements reflect your beliefs about [COVID-19/flu/hepatitis-B/MMR] vaccines in general?
+
+
+I am completely confident that [name] vaccines are safe. [confidence]
+My [my child’s/] immune system is so strong, it also protects me [him/her/them] against [name]. [complacency1]
+[name] is not so severe that I [my child] should get vaccinated. [complacency2]
+Everyday stress prevents me from getting [my child] vaccinated against [name]. [constraints]
+When I think about getting [name] [for my child], I weigh benefits and risks to make the best decision possible. [calculation]
+When everyone is vaccinated, I don’t [my child doesn’t] have to get vaccinated, too. [r] [collective responsibility
+
+Anti-vaccination attitudes - Lindeman et al. (2022)
+
+1. In general, vaccines are useful (R)
+2. I would vaccinate/I have vaccinated my child in accordance with the recommendations (R)
+3. Vaccines can contaminate the body
+4. Vaccines are a way for pharmaceutical companies to extort money
+from people
+5. I oppose vaccination because vaccines are not natural ways to treat diseases
+6. Vaccination is safe (R)
+7. The public is not told everything about the contents of vaccines
+8. The disadvantages of vaccines are not openly reported
+9. I could participate in a new vaccine development study (R)
+10. I have refused vaccination
+11. Vaccines are impure
+12. Vaccines often result in serious illness
+13. Vaccines put too much strain on the innate immune system
+14. Vaccines can be used to benefit governments or other actors and against
+ordinary people
+15. We are being told that vaccines are useful, but in reality they are used
+against people
+
+Vaccine attitudes - Jolley (2014)
+
+I feel uncertain about the potential side-effects of immunizations.
+I feel uncertain about the safety of immunizations.
+A large number of early vaccinations expose an infant’s immune system to avoidable risks.
+Multiple vaccines overwhelm the infant’s immune system.
+The side-effects of vaccinations are unforeseeable.
+Vaccines lead to allergies.
+I feel uncertain about the motives of those involved in immunizations (governments, pharmaceutical companies etc.).
+Vaccinations cause the illnesses they are intended to protect against.
+
+Vaccine acceptance instrument - Sarthchandra et al. (2018)
+
+Perceived safety
+1. Vaccines are safe
+2. Vaccines contain mercury in dangerous amounts [R]
+3. Vaccines contain dangerous ingredients [R]
+4. Vaccines cause autism [R]
+
+Perceived effectiveness and necessity
+5. Some vaccines are unnecessary since they target relatively harmless diseases. [R]
+6. Diseases provide better immunity than vaccines do.  [R]
+7. Vaccines are effective at preventing diseases. 
+8. Many of the illnesses that vaccines prevent are severe.
+
+Acceptance of the selection and scheduling of vaccines
+9. We give children the right number of vaccines. 
+10. The timing of the current vaccination schedule is appropriate.
+11. We give vaccines to children when they are too young.  [R]
+12. We give children too many vaccines.  [R]
+
+Positive values and affect towards vaccines
+13. I'm morally opposed to vaccinating my child. [R]
+14. Vaccines conflict with my belief that children should use natural products and avoid toxins.  [R]
+15. Vaccines are a major advancement for humanity. 
+16. Vaccines are disgusting to me.  [R]
+
+Perceived legitimacy of authorities to require vaccines
+17. The government should not force children to get vaccinated to attend school. [R]
+18. My right to consent to medical treatment means that vaccinations should always be voluntary. [R]
+19. To protect public health, we should follow government guidelines about vaccines.
+20. It is legitimate for government to mandate vaccinations.
+
+
+Vaccination attitudes examination (VAX) scale - Martin & Petrie (2017)
+
+
+mistrust of vaccine benefit
+I feel safe after being vaccinated [R]
+I can rely on vaccines to stop serious infectious diseases [R]
+I feel protected after getting vaccinated [R]
+
+
+worries about unforeseen future effects
+Although most vaccines appear to be safe, there may be problems that we have not yet discovered.
+Vaccines can cause unforeseen problems in children.
+I worry about the unknown effects of vaccines in the future.
+
+
+concerns about commercial profiteering
+Vaccines make a lot of money for pharmaceutical companies, but do not do much for regular people.
+Authorities promote vaccination for financial gain, not for people’s health.
+Vaccination programs are a big con.
+
+
+preference for natural immunity
+Natural immunity lasts longer than a vaccination.
+Natural exposure to viruses and germs gives the safest protection.
+Being exposed to diseases naturally is safer for the immune system than being exposed through vaccination.
