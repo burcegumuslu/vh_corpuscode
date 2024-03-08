@@ -44,9 +44,9 @@ def get_search_results(domain_list_unique=None, key_words = CAM_keywords, search
 
     print('Search engine: ' + search_engine_name)
     if key_words == CAM_keywords:
-        outfile_name = f"1_Python/3. SE Websites/search_results/search_results_{search_engine_name}_CAM_keywords.json"
+        outfile_name = f"1_Python/3.SEWebsites/search_results/search_results_{search_engine_name}_CAM_keywords.json"
     else:
-        outfile_name = f"1_Python/3. SE Websites/search_results/search_results_{search_engine_name}_vaccine_keywords.json"
+        outfile_name = f"1_Python/3.SEWebsites/search_results/search_results_{search_engine_name}_vaccine_keywords.json"
     search_results = []
     for key_word in key_words:
         print('Keyword: ' + key_word)
