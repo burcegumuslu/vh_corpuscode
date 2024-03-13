@@ -68,7 +68,6 @@ def create_domain_list(my_list):
 
     PS_domain_list = []
 
-    
 
     with open(path_PS, 'r') as input_file:  ## If you want to use other domains create a csv file making sure that the domains
         ###################################### are written the first column.
